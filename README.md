@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-![HTML](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Css](https://img.shields.io/badge/-Css-000000?style=for-the-badge&logo=css3&logoColor=E34F26)
-![Js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/-Html-011627?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Css](https://img.shields.io/badge/-Css-011627?style=for-the-badge&logo=css3&logoColor=5c98f2)
+![Scss](https://img.shields.io/badge/-SCSS-011627?style=for-the-badge&logo=SASS)
+![Js](https://img.shields.io/badge/-JavaScript-011627?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Webpack](https://img.shields.io/badge/-webpack-011627?style=for-the-badge&logo=webpack)
+![Gulp](https://img.shields.io/badge/-gulp-011627?style=for-the-badge&logo=gulp)
+![Figma](https://img.shields.io/badge/-figma-011627?style=for-the-badge&logo=figma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroKolisnyk2&layout=compact&theme=nightowl)](https://github.com/DmytroKolisnyk2)
 
