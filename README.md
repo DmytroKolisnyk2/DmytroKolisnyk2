@@ -1,3 +1,5 @@
+![Banner](https://ajmendez.github.io/assets/helloworld_finished.png)
+
 # Hey 👋
 
 - 🌱 I’m currently learning React and NodeJS
