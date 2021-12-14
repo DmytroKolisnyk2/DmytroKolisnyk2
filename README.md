@@ -1,6 +1,7 @@
 # Hey 👋
 
 - 🌱 I’m currently learning React and NodeJS
+- 🔭 I’m currently working on smth curious
 - 📫 How to reach me: **d.s.kolisnyk@i.ua**
 
 ### My skills
@@ -15,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 
-### Popular repository
+### Popular repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=filmSearch&theme=algolia)](https://github.com/DmytroKolisnyk2/filmSearch)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=start-react&theme=algolia)](https://github.com/DmytroKolisnyk2/start-react)
@@ -27,7 +28,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Some statistic
+### Some statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroKolisnyk2&layout=compact&theme=algolia)](https://github.com/DmytroKolisnyk2)
 
