@@ -1,4 +1,4 @@
-![Banner](https://ajmendez.github.io/assets/helloworld_finished.png)
+![Banner](./gitHubLogo.png)
 
 # Hey 👋
 
