@@ -17,10 +17,11 @@
 ![Figma](https://img.shields.io/badge/-figma-050f2c?style=for-the-badge&logo=figma&logoColor=c44)
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
 
 ## Popular repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=filmSearch&theme=algolia)](https://github.com/DmytroKolisnyk2/filmSearch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=filmSearch-react&theme=algolia)](https://github.com/DmytroKolisnyk2/filmSearch-react)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=start-react&theme=algolia)](https://github.com/DmytroKolisnyk2/start-react)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=test-gulp&theme=algolia)](https://github.com/DmytroKolisnyk2/test-gulp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=cybersecurity_by-HOPE&theme=algolia)](https://github.com/DmytroKolisnyk2/cybersecurity_by-HOPE)
