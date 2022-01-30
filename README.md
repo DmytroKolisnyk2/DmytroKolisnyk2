@@ -18,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 ![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
 
 ## Popular repositories
 
