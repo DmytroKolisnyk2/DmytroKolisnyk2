@@ -19,6 +19,7 @@
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 ![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
+![NextJS](https://img.shields.io/badge/-nextJS-050f2c?style=for-the-badge&logo=nextJS&logoColor=986cdf)
 
 ## Popular repositories
 
