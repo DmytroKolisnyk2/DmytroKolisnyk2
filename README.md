@@ -25,7 +25,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=filmSearch-react&theme=algolia)](https://github.com/DmytroKolisnyk2/filmSearch-react)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=archetypes-testing&theme=algolia)](https://github.com/DmytroKolisnyk2/archetypes-testing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=test-gulp&theme=algolia)](https://github.com/DmytroKolisnyk2/test-gulp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=GameOFTeens_JS&theme=algolia)](https://github.com/DmytroKolisnyk2/GameOFTeens_JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=cybersecurity_by-HOPE&theme=algolia)](https://github.com/DmytroKolisnyk2/cybersecurity_by-HOPE)
 
 
