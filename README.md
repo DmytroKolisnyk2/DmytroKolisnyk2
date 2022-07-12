@@ -12,6 +12,7 @@
 ![Css](https://img.shields.io/badge/-Css-050f2c?style=for-the-badge&logo=css3&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-050f2c?style=for-the-badge&logo=SASS)
 ![Js](https://img.shields.io/badge/-JavaScript-050f2c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Ts](https://img.shields.io/badge/-TypeScript-050f2c?style=for-the-badge&logo=TypeScript)
 ![Gulp](https://img.shields.io/badge/-gulp-050f2c?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-webpack-050f2c?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-050f2c?style=for-the-badge&logo=figma&logoColor=c44)
