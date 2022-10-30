@@ -2,7 +2,7 @@
 
 # Hey 👋
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NestJS
 - 🔭 I’m currently working on smth curious
 - 📫 How to reach me: **d.s.kolisnyk@i.ua**
 
